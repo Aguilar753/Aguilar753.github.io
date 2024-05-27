@@ -20,7 +20,7 @@ body {
     overflow-x: hidden; /* So the pages wont overlap */
     animation: transitionIn 0.55s; /* Fade in intro  */
 
-} 
+}
 
 /* transition keyframe */
 
