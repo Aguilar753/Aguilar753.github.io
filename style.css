@@ -714,14 +714,15 @@ section {
 }
 
 
-.illustration {
+.Video {
 
-    height: 400px; /* Image's height */
-    width: 400px; /* Image's width */
+    height: 600px; /* Image's height */
+    width: 600px; /* Image's width */
     position: absolute; /* For positioning */
-    left: 130%; /* Image to top */
-    bottom: 70%; /* Image to left */
-
+    left: 110%; /* Image to top */
+    bottom: 59%; /* Image to left */
+    transition: .5; /* Transition duration */
+    
 }
 
 
