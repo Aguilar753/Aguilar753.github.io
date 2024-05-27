@@ -20,7 +20,7 @@ body {
     overflow-x: hidden; /* So the pages wont overlap */
     animation: transitionIn 0.55s; /* Fade in intro  */
 
-}
+} 
 
 /* transition keyframe */
 
@@ -109,6 +109,7 @@ nav {
     gap: 5rem; /* Gap of the navs */
     list-style: none; /* Removes the list style */
     font-size: 1.0rem; /* Size of the text */
+
     
 }
 
@@ -116,7 +117,14 @@ nav a {
 
     color: black; /* Text Color: Black  */
     text-decoration: none; /* Remove underline */
-    
+    transition: color .2s ease; /* Transition with ease  */
+
+}
+
+nav a:hover {
+
+    color: #fff; /* Text Color: White  */
+
 }
 
 /* Logo */
