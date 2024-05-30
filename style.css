@@ -763,6 +763,36 @@ section {
 
 }
 
+.Skills {
+
+    height: 600px; /* Image's height */
+    width: 600px; /* Image's width */
+    position: absolute; /* For positioning */
+    left: -90%; /* Image to left */
+    bottom: 59%; /* Image to bottom */
+    
+}
+
+.Interest {
+
+    height: 600px; /* Image's height */
+    width: 600px; /* Image's width */
+    position: absolute; /* For positioning */
+    right: -85%; /* Image to right */
+    bottom: 15%; /* Image to bottom */
+
+    
+}
+
+.Experience {
+
+    height: 600px; /* Image's height */
+    width: 600px; /* Image's width */
+    position: absolute; /* For positioning */
+    right: 106%; /* Image to right */
+    top: -56%; /* Image to top */
+ 
+}   
 
 .Contact-content {
 
@@ -932,4 +962,3 @@ section {
     opacity: 1; /* Fade in */
 
 }
-
